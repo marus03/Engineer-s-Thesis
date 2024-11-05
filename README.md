@@ -5,3 +5,5 @@ W ramach projektu, zbudowany zostanie model wykorzystujący biblioteki uczenia m
 Praca - pierwsza wersja ("na brudno)
 
 **Praca2 - drugie podejście do tematu (główna)**
+
+Link do zbioru: https://www.kaggle.com/datasets/yuriykatser/rul-dataset-from-continuous-casting-machine
