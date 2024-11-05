@@ -3,4 +3,5 @@ Tytuł pracy inżynierskiej: Wykorzystanie elementów uczenia maszynowego do pro
 W ramach projektu, zbudowany zostanie model wykorzystujący biblioteki uczenia maszynowego w celu predykcji żywotności krytycznego elementu w maszynie.
 
 Praca - pierwsza wersja ("na brudno)
+
 **Praca2 - drugie podejście do tematu (główna)**
