@@ -2,8 +2,4 @@ Tytuł pracy inżynierskiej: **Wykorzystanie elementów uczenia maszynowego do p
 
 W ramach projektu, zbudowany zostanie model wykorzystujący biblioteki uczenia maszynowego w celu predykcji żywotności krytycznego elementu w maszynie.
 
-Praca - pierwsza wersja ("na brudno)
-
-**Praca2 - drugie podejście do tematu (główna)**
-
 Link do zbioru: https://www.kaggle.com/datasets/yuriykatser/rul-dataset-from-continuous-casting-machine
