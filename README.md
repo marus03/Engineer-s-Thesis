@@ -15,3 +15,5 @@ Wykorzystano w tym celu język Python i wbudowane w nim biblioteki takie jak:
 - Tensorflow
 
 Link do zbioru: https://www.kaggle.com/datasets/yuriykatser/rul-dataset-from-continuous-casting-machine
+
+*Na potrzeby szybkiej kompilacji parametr 'n_estimators' w random forest oraz xgboost jest zmniejszony z przedziału 100-200 na 10-20.
